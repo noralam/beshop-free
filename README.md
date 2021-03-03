@@ -1,9 +1,11 @@
-Contributors: nalam
-Requires at least: 4.0
-Tested up to: 5.6
+# BeShop Free WordPress Theme
+
+## Contributors: nalam
+## Requires at least: 4.0
+## Tested up to: 5.6
 Tags: blog, news, education, custom-logo, one-column, two-columns, grid-layout, right-sidebar, custom-background, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, threaded-comments, translation-ready, block-styles
-Stable tag: 1.0.4
-Requires PHP: 5.6
+## Stable tag: 1.0.4
+## Requires PHP: 5.6
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
