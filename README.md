@@ -1,4 +1,7 @@
 # BeShop Free WordPress Theme
+### See Our Ready Demo [View BeShop Demo](https://bspro.wpcolors.net/).
+### See The BeShop Short Video [View BeShop Video](https://youtu.be/NvsdChC1zjI).
+### BeShop Pro Theme Link [View BeShop Pro](https://wpthemespace.com/product/beshop/).
 
 ## BeShop is the best free WordPress theme for shop, blog and magazine websites. 
 Create an awesome website with the BeShop WordPress theme.
