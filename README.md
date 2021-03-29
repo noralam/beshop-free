@@ -1,4 +1,6 @@
 # [BeShop Free WordPress Theme](https://wpthemespace.com/product/beshop/)
+[![Github image preview](https://wpthemespace.com/wp-content/uploads/2020/10/screenshot.png)](https://wpthemespace.com/product/beshop/)
+
 ### See Our Ready Demo [View BeShop Demo](https://bspro.wpcolors.net/).
 ### See The BeShop Short Video [View BeShop Video](https://youtu.be/NvsdChC1zjI).
 ### BeShop Pro Theme Link [View BeShop Pro](https://wpthemespace.com/product/beshop/).
